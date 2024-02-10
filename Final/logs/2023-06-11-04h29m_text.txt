@@ -1,0 +1,300 @@
+Epoch 1: 
+Train: 669/669, Loss = 0.6928, Acc = 0.5104
+Valid: 168/168, Loss = 0.6916, Acc = 0.5199
+Epoch 2: 
+Train: 669/669, Loss = 0.6920, Acc = 0.5251
+Valid: 168/168, Loss = 0.6912, Acc = 0.5564
+Epoch 3: 
+Train: 669/669, Loss = 0.6914, Acc = 0.5260
+Valid: 168/168, Loss = 0.6918, Acc = 0.5010
+Epoch 4: 
+Train: 669/669, Loss = 0.6907, Acc = 0.5375
+Valid: 168/168, Loss = 0.6898, Acc = 0.5523
+Epoch 5: 
+Train: 669/669, Loss = 0.6898, Acc = 0.5395
+Valid: 168/168, Loss = 0.6889, Acc = 0.5470
+Epoch 6: 
+Train: 669/669, Loss = 0.6889, Acc = 0.5388
+Valid: 168/168, Loss = 0.6882, Acc = 0.5466
+Epoch 7: 
+Train: 669/669, Loss = 0.6873, Acc = 0.5502
+Valid: 168/168, Loss = 0.6857, Acc = 0.5657
+Epoch 8: 
+Train: 669/669, Loss = 0.6859, Acc = 0.5569
+Valid: 168/168, Loss = 0.6837, Acc = 0.5696
+Epoch 9: 
+Train: 669/669, Loss = 0.6838, Acc = 0.5551
+Valid: 168/168, Loss = 0.6851, Acc = 0.5472
+Epoch 10: 
+Train: 669/669, Loss = 0.6815, Acc = 0.5622
+Valid: 168/168, Loss = 0.6815, Acc = 0.5577
+Epoch 11: 
+Train: 669/669, Loss = 0.6798, Acc = 0.5678
+Valid: 168/168, Loss = 0.6771, Acc = 0.5810
+Epoch 12: 
+Train: 669/669, Loss = 0.6782, Acc = 0.5676
+Valid: 168/168, Loss = 0.6832, Acc = 0.5438
+Epoch 13: 
+Train: 669/669, Loss = 0.6760, Acc = 0.5734
+Valid: 168/168, Loss = 0.6728, Acc = 0.5885
+Epoch 14: 
+Train: 669/669, Loss = 0.6739, Acc = 0.5767
+Valid: 168/168, Loss = 0.6698, Acc = 0.5910
+Epoch 15: 
+Train: 669/669, Loss = 0.6719, Acc = 0.5796
+Valid: 168/168, Loss = 0.6716, Acc = 0.5840
+Epoch 16: 
+Train: 669/669, Loss = 0.6701, Acc = 0.5836
+Valid: 168/168, Loss = 0.6666, Acc = 0.5913
+Epoch 17: 
+Train: 669/669, Loss = 0.6694, Acc = 0.5836
+Valid: 168/168, Loss = 0.6915, Acc = 0.5311
+Epoch 18: 
+Train: 669/669, Loss = 0.6685, Acc = 0.5849
+Valid: 168/168, Loss = 0.6838, Acc = 0.5470
+Epoch 19: 
+Train: 669/669, Loss = 0.6671, Acc = 0.5875
+Valid: 168/168, Loss = 0.6612, Acc = 0.6078
+Epoch 20: 
+Train: 669/669, Loss = 0.6641, Acc = 0.5872
+Valid: 168/168, Loss = 0.6650, Acc = 0.5967
+Epoch 21: 
+Train: 669/669, Loss = 0.6619, Acc = 0.5987
+Valid: 168/168, Loss = 0.6613, Acc = 0.5938
+Epoch 22: 
+Train: 669/669, Loss = 0.6624, Acc = 0.5969
+Valid: 168/168, Loss = 0.6582, Acc = 0.6123
+Epoch 23: 
+Train: 669/669, Loss = 0.6626, Acc = 0.5952
+Valid: 168/168, Loss = 0.6590, Acc = 0.6100
+Epoch 24: 
+Train: 669/669, Loss = 0.6603, Acc = 0.5956
+Valid: 168/168, Loss = 0.6586, Acc = 0.5977
+Epoch 25: 
+Train: 669/669, Loss = 0.6604, Acc = 0.5990
+Valid: 168/168, Loss = 0.6688, Acc = 0.5941
+Epoch 26: 
+Train: 669/669, Loss = 0.6586, Acc = 0.5986
+Valid: 168/168, Loss = 0.6557, Acc = 0.6108
+Epoch 27: 
+Train: 669/669, Loss = 0.6616, Acc = 0.5968
+Valid: 168/168, Loss = 0.6562, Acc = 0.6042
+Epoch 28: 
+Train: 669/669, Loss = 0.6591, Acc = 0.5984
+Valid: 168/168, Loss = 0.6547, Acc = 0.6164
+Epoch 29: 
+Train: 669/669, Loss = 0.6566, Acc = 0.6018
+Valid: 168/168, Loss = 0.6552, Acc = 0.6052
+Epoch 30: 
+Train: 669/669, Loss = 0.6567, Acc = 0.6046
+Valid: 168/168, Loss = 0.6635, Acc = 0.6035
+Epoch 31: 
+Train: 669/669, Loss = 0.6547, Acc = 0.6059
+Valid: 168/168, Loss = 0.6711, Acc = 0.5741
+Epoch 32: 
+Train: 669/669, Loss = 0.6561, Acc = 0.6058
+Valid: 168/168, Loss = 0.6544, Acc = 0.6050
+Epoch 33: 
+Train: 669/669, Loss = 0.6546, Acc = 0.6069
+Valid: 168/168, Loss = 0.6527, Acc = 0.6151
+Epoch 34: 
+Train: 669/669, Loss = 0.6550, Acc = 0.6037
+Valid: 168/168, Loss = 0.6608, Acc = 0.5895
+Epoch 35: 
+Train: 669/669, Loss = 0.6533, Acc = 0.6044
+Valid: 168/168, Loss = 0.6560, Acc = 0.6128
+Epoch 36: 
+Train: 669/669, Loss = 0.6547, Acc = 0.6051
+Valid: 168/168, Loss = 0.6525, Acc = 0.6117
+Epoch 37: 
+Train: 669/669, Loss = 0.6549, Acc = 0.6066
+Valid: 168/168, Loss = 0.6724, Acc = 0.5719
+Epoch 38: 
+Train: 669/669, Loss = 0.6544, Acc = 0.6109
+Valid: 168/168, Loss = 0.6623, Acc = 0.5863
+Epoch 39: 
+Train: 669/669, Loss = 0.6516, Acc = 0.6073
+Valid: 168/168, Loss = 0.6755, Acc = 0.5719
+Epoch 40: 
+Train: 669/669, Loss = 0.6520, Acc = 0.6120
+Valid: 168/168, Loss = 0.6511, Acc = 0.6153
+Epoch 41: 
+Train: 669/669, Loss = 0.6513, Acc = 0.6101
+Valid: 168/168, Loss = 0.6505, Acc = 0.6156
+Epoch 42: 
+Train: 669/669, Loss = 0.6555, Acc = 0.6066
+Valid: 168/168, Loss = 0.6523, Acc = 0.6188
+Epoch 43: 
+Train: 669/669, Loss = 0.6517, Acc = 0.6103
+Valid: 168/168, Loss = 0.6522, Acc = 0.6177
+Epoch 44: 
+Train: 669/669, Loss = 0.6498, Acc = 0.6137
+Valid: 168/168, Loss = 0.6527, Acc = 0.6061
+Epoch 45: 
+Train: 669/669, Loss = 0.6494, Acc = 0.6095
+Valid: 168/168, Loss = 0.6704, Acc = 0.5953
+Epoch 46: 
+Train: 669/669, Loss = 0.6493, Acc = 0.6141
+Valid: 168/168, Loss = 0.6788, Acc = 0.5663
+Epoch 47: 
+Train: 669/669, Loss = 0.6501, Acc = 0.6105
+Valid: 168/168, Loss = 0.6865, Acc = 0.5577
+Epoch 48: 
+Train: 669/669, Loss = 0.6495, Acc = 0.6126
+Valid: 168/168, Loss = 0.6717, Acc = 0.5762
+Epoch 49: 
+Train: 669/669, Loss = 0.6488, Acc = 0.6136
+Valid: 168/168, Loss = 0.6492, Acc = 0.6186
+Epoch 50: 
+Train: 669/669, Loss = 0.6479, Acc = 0.6158
+Valid: 168/168, Loss = 0.6609, Acc = 0.5900
+Epoch 51: 
+Train: 669/669, Loss = 0.6406, Acc = 0.6252
+Valid: 168/168, Loss = 0.6490, Acc = 0.6139
+Epoch 52: 
+Train: 669/669, Loss = 0.6396, Acc = 0.6242
+Valid: 168/168, Loss = 0.6499, Acc = 0.6138
+Epoch 53: 
+Train: 669/669, Loss = 0.6392, Acc = 0.6255
+Valid: 168/168, Loss = 0.6483, Acc = 0.6162
+Epoch 54: 
+Train: 669/669, Loss = 0.6394, Acc = 0.6238
+Valid: 168/168, Loss = 0.6482, Acc = 0.6188
+Epoch 55: 
+Train: 669/669, Loss = 0.6394, Acc = 0.6252
+Valid: 168/168, Loss = 0.6481, Acc = 0.6166
+Epoch 56: 
+Train: 669/669, Loss = 0.6388, Acc = 0.6266
+Valid: 168/168, Loss = 0.6484, Acc = 0.6151
+Epoch 57: 
+Train: 669/669, Loss = 0.6387, Acc = 0.6257
+Valid: 168/168, Loss = 0.6480, Acc = 0.6164
+Epoch 58: 
+Train: 669/669, Loss = 0.6388, Acc = 0.6254
+Valid: 168/168, Loss = 0.6495, Acc = 0.6134
+Epoch 59: 
+Train: 669/669, Loss = 0.6385, Acc = 0.6280
+Valid: 168/168, Loss = 0.6480, Acc = 0.6171
+Epoch 60: 
+Train: 669/669, Loss = 0.6389, Acc = 0.6232
+Valid: 168/168, Loss = 0.6480, Acc = 0.6154
+Epoch 61: 
+Train: 669/669, Loss = 0.6384, Acc = 0.6267
+Valid: 168/168, Loss = 0.6523, Acc = 0.6089
+Epoch 62: 
+Train: 669/669, Loss = 0.6385, Acc = 0.6266
+Valid: 168/168, Loss = 0.6476, Acc = 0.6196
+Epoch 63: 
+Train: 669/669, Loss = 0.6378, Acc = 0.6274
+Valid: 168/168, Loss = 0.6560, Acc = 0.6024
+Epoch 64: 
+Train: 669/669, Loss = 0.6383, Acc = 0.6262
+Valid: 168/168, Loss = 0.6484, Acc = 0.6151
+Epoch 65: 
+Train: 669/669, Loss = 0.6378, Acc = 0.6259
+Valid: 168/168, Loss = 0.6480, Acc = 0.6177
+Epoch 66: 
+Train: 669/669, Loss = 0.6375, Acc = 0.6252
+Valid: 168/168, Loss = 0.6485, Acc = 0.6182
+Epoch 67: 
+Train: 669/669, Loss = 0.6380, Acc = 0.6249
+Valid: 168/168, Loss = 0.6477, Acc = 0.6186
+Epoch 68: 
+Train: 669/669, Loss = 0.6376, Acc = 0.6251
+Valid: 168/168, Loss = 0.6505, Acc = 0.6134
+Epoch 69: 
+Train: 669/669, Loss = 0.6376, Acc = 0.6284
+Valid: 168/168, Loss = 0.6475, Acc = 0.6188
+Epoch 70: 
+Train: 669/669, Loss = 0.6378, Acc = 0.6263
+Valid: 168/168, Loss = 0.6516, Acc = 0.6108
+Epoch 71: 
+Train: 669/669, Loss = 0.6371, Acc = 0.6275
+Valid: 168/168, Loss = 0.6480, Acc = 0.6147
+Epoch 72: 
+Train: 669/669, Loss = 0.6375, Acc = 0.6244
+Valid: 168/168, Loss = 0.6492, Acc = 0.6164
+Epoch 73: 
+Train: 669/669, Loss = 0.6371, Acc = 0.6272
+Valid: 168/168, Loss = 0.6474, Acc = 0.6203
+Epoch 74: 
+Train: 669/669, Loss = 0.6375, Acc = 0.6259
+Valid: 168/168, Loss = 0.6492, Acc = 0.6164
+Epoch 75: 
+Train: 669/669, Loss = 0.6371, Acc = 0.6259
+Valid: 168/168, Loss = 0.6484, Acc = 0.6173
+Epoch 76: 
+Train: 669/669, Loss = 0.6358, Acc = 0.6304
+Valid: 168/168, Loss = 0.6484, Acc = 0.6168
+Epoch 77: 
+Train: 669/669, Loss = 0.6358, Acc = 0.6301
+Valid: 168/168, Loss = 0.6481, Acc = 0.6138
+Epoch 78: 
+Train: 669/669, Loss = 0.6358, Acc = 0.6284
+Valid: 168/168, Loss = 0.6475, Acc = 0.6179
+Epoch 79: 
+Train: 669/669, Loss = 0.6357, Acc = 0.6281
+Valid: 168/168, Loss = 0.6475, Acc = 0.6173
+Epoch 80: 
+Train: 669/669, Loss = 0.6358, Acc = 0.6283
+Valid: 168/168, Loss = 0.6475, Acc = 0.6166
+Epoch 81: 
+Train: 669/669, Loss = 0.6357, Acc = 0.6288
+Valid: 168/168, Loss = 0.6479, Acc = 0.6153
+Epoch 82: 
+Train: 669/669, Loss = 0.6357, Acc = 0.6278
+Valid: 168/168, Loss = 0.6479, Acc = 0.6151
+Epoch 83: 
+Train: 669/669, Loss = 0.6357, Acc = 0.6298
+Valid: 168/168, Loss = 0.6474, Acc = 0.6156
+Epoch 84: 
+Train: 669/669, Loss = 0.6357, Acc = 0.6301
+Valid: 168/168, Loss = 0.6475, Acc = 0.6173
+Epoch 85: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6286
+Valid: 168/168, Loss = 0.6472, Acc = 0.6184
+Epoch 86: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6281
+Valid: 168/168, Loss = 0.6475, Acc = 0.6175
+Epoch 87: 
+Train: 669/669, Loss = 0.6357, Acc = 0.6291
+Valid: 168/168, Loss = 0.6481, Acc = 0.6143
+Epoch 88: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6291
+Valid: 168/168, Loss = 0.6482, Acc = 0.6149
+Epoch 89: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6305
+Valid: 168/168, Loss = 0.6478, Acc = 0.6149
+Epoch 90: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6290
+Valid: 168/168, Loss = 0.6483, Acc = 0.6164
+Epoch 91: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6288
+Valid: 168/168, Loss = 0.6484, Acc = 0.6166
+Epoch 92: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6288
+Valid: 168/168, Loss = 0.6476, Acc = 0.6164
+Epoch 93: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6287
+Valid: 168/168, Loss = 0.6476, Acc = 0.6164
+Epoch 94: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6292
+Valid: 168/168, Loss = 0.6472, Acc = 0.6179
+Epoch 95: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6295
+Valid: 168/168, Loss = 0.6475, Acc = 0.6171
+Epoch 96: 
+Train: 669/669, Loss = 0.6356, Acc = 0.6291
+Valid: 168/168, Loss = 0.6479, Acc = 0.6154
+Epoch 97: 
+Train: 669/669, Loss = 0.6354, Acc = 0.6276
+Valid: 168/168, Loss = 0.6483, Acc = 0.6158
+Epoch 98: 
+Train: 669/669, Loss = 0.6355, Acc = 0.6292
+Valid: 168/168, Loss = 0.6474, Acc = 0.6169
+Epoch 99: 
+Train: 669/669, Loss = 0.6355, Acc = 0.6298
+Valid: 168/168, Loss = 0.6484, Acc = 0.6164
+Epoch 100: 
+Train: 669/669, Loss = 0.6355, Acc = 0.6289
+Valid: 168/168, Loss = 0.6479, Acc = 0.6156

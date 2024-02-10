@@ -1,0 +1,8 @@
+Epoch 0: Train: 445/445, Loss = 0.6936, Acc = 0.4958
+Valid: 111/111, Loss = 0.6938, Acc = 0.4809
+Epoch 1: Train: 445/445, Loss = 0.6936, Acc = 0.4989
+Valid: 111/111, Loss = 0.6942, Acc = 0.4718
+Epoch 2: Train: 445/445, Loss = 0.6933, Acc = 0.5042
+Valid: 111/111, Loss = 0.6939, Acc = 0.4955
+Epoch 3: Train: 445/445, Loss = 0.6931, Acc = 0.5096
+Valid: 111/111, Loss = 0.6942, Acc = 0.4831
