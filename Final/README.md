@@ -13,3 +13,8 @@ Histogram of channel "newsebc".
 <img src="https://github.com/rayshiue/DataScience_Spring_2023/assets/77530430/f335a1c6-8b80-407e-b332-c60052274c53" width="720" align="center">
 
 Cumulative distribution function of all channels.
+
+
+![image](https://github.com/rayshiue/DataScience_Spring_2023/assets/77530430/d3c0ec88-56cc-479d-842f-ae06f082e772)
+
+Model architectures.
