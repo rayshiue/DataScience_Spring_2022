@@ -1,1 +1,4 @@
-<img src="[https://github.com/favicon.ico](https://github.com/rayshiue/DataScience_Spring_2023/assets/77530430/24c70cb7-e12f-4a7b-a607-21e03e7304c7)https://github.com/rayshiue/DataScience_Spring_2023/assets/77530430/24c70cb7-e12f-4a7b-a607-21e03e7304c7" width="48">
+![image](https://github.com/rayshiue/DataScience_Spring_2023/assets/77530430/0c59033e-12fd-47de-9d6e-b93f14f9382b)
+
+
+<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
