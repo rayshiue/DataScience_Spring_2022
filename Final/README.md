@@ -8,7 +8,8 @@ Statistical data of video view counts.
 
 <img src="https://github.com/rayshiue/DataScience_Spring_2023/assets/77530430/57e22dd2-1222-404b-97a8-2431751f8de3" width="720" align="center">
 
-Cumulative distribution function.
+Histogram of channel "newsebc".
 
 <img src="https://github.com/rayshiue/DataScience_Spring_2023/assets/77530430/f335a1c6-8b80-407e-b332-c60052274c53" width="720" align="center">
 
+Cumulative distribution function of all channels.
