@@ -14,15 +14,17 @@
 - Gallery structure
     ```
     .
-    ├── name_1         
-    │   └── 1.jpg  
-    ├── name_2         
-    │   └── 1.jpg
-    ├── name_3         
-    │   └── 1.jpg
+    ├── 1         
+    │   └── name_1.jpg  
+    ├── 2         
+    │   └── name_2.jpg
+    ├── 3       
+    │   └── name_3 .jpg
     ...
-    └── name_X
-        └── 1.jpg
+    ├── X       
+    │   └── name_X .jpg
+    └── X+1
+        └── name_X+1.jpg
     ```
 ## Make Prediction
 ```sh
