@@ -11,21 +11,7 @@
     ├── best_model.pth
     └── Readme.md
     ```
-- Gallery structure
-    ```
-    .
-    ├── 1         
-    │   └── name_1.jpg  
-    ├── 2         
-    │   └── name_2.jpg
-    ├── 3       
-    │   └── name_3 .jpg
-    ...
-    ├── X       
-    │   └── name_X .jpg
-    └── X+1
-        └── name_X+1.jpg
-    ```
+
 ## Make Prediction
 ```sh
 bash 0810892.sh
