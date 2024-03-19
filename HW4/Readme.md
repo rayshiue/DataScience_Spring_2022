@@ -11,7 +11,7 @@
     ├── best_model.pth
     └── Readme.md
     ```
-- Folder structure
+- Gallery structure
     ```
     .
     ├── name_1         
