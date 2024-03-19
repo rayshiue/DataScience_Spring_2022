@@ -11,7 +11,19 @@
     ├── best_model.pth
     └── Readme.md
     ```
-
+- Folder structure
+    ```
+    .
+    ├── name_1         
+    │   └── 1.jpg  
+    ├── name_2         
+    │   └── 1.jpg
+    ├── name_3         
+    │   └── 1.jpg
+    ...
+    └── name_X
+        └── 1.jpg
+    ```
 ## Make Prediction
 ```sh
 bash 0810892.sh
